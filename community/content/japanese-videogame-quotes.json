@@ -112,21 +112,19 @@
     "character": "Nobunaga Oda"
   },
   {
-  "japanese": "行くぞ、みんな！",
-  "romaji": "Iku zo, minna!",
-  "english": "Let's go, everyone!",
-  "game": "Kingdom Hearts series (JP dub)",
-  "character": "Sora"
-}
-,
+    "japanese": "行くぞ、みんな！",
+    "romaji": "Iku zo, minna!",
+    "english": "Let's go, everyone!",
+    "game": "Kingdom Hearts series (JP dub)",
+    "character": "Sora"
+  },
   {
     "japanese": "負ける気がしない",
     "romaji": "Makeru ki ga shinai",
     "english": "I don't feel like I can lose.",
     "game": "Street Fighter series",
     "character": "Ryu"
-  }
-  ,
+  },
   {
     "japanese": "世界を救うって、そういうことだろ？",
     "romaji": "Sekai o sukuu tte, sou iu koto daro?",
@@ -156,11 +154,11 @@
     "character": "Revali"
   },
   {
-  "japanese": "冒険の始まりだ！",
-  "romaji": "Bouken no hajimari da!",
-  "english": "This is the beginning of the adventure!",
-  "game": "Dragon Quest XI",
-  "character": "Hero / party lines"
+    "japanese": "冒険の始まりだ！",
+    "romaji": "Bouken no hajimari da!",
+    "english": "This is the beginning of the adventure!",
+    "game": "Dragon Quest XI",
+    "character": "Hero / party lines"
   },
   {
     "japanese": "運命なんて、変えてみせる！",
@@ -168,5 +166,12 @@
     "english": "I'll change destiny!",
     "game": "Final Fantasy Type-0",
     "character": "Class Zero"
+  },
+  {
+    "japanese": "生きるってのは、戦うってことだ",
+    "romaji": "Ikiru tte no wa, tatakau tte koto da",
+    "english": "To live is to fight.",
+    "game": "Yakuza: Like a Dragon",
+    "character": "Ichiban Kasuga"
   }
 ]
