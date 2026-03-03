@@ -482,5 +482,10 @@
       "Oden"
     ],
     "correctIndex": 0
+  },
+  {
+    "question": "What is the capital of Japan?",
+    "answer": "Tokyo",
+    "difficulty": "easy"
   }
 ]
