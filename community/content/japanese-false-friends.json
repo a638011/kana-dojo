@@ -18,16 +18,16 @@
     "example": "子どものころからアニメが好きだ。"
   },
   {
-  "termA": "バイキング (baikingu)",
-  "termB": "viking (English)",
-  "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 6)",
-  "example": "ホテルの朝食はバイキングです。"
+    "termA": "バイキング (baikingu)",
+    "termB": "viking (English)",
+    "explanation": "Usually means buffet/all-you-can-eat in Japan. (Set 6)",
+    "example": "ホテルの朝食はバイキングです。"
   },
   {
-  "termA": "ナンバー (nanbaa)",
-  "termB": "number (English)",
-  "explanation": "Can mean ranking position in Japanese usage. (Set 4)",
-  "example": "彼はチームのナンバー1だ。"
+    "termA": "ナンバー (nanbaa)",
+    "termB": "number (English)",
+    "explanation": "Can mean ranking position in Japanese usage. (Set 4)",
+    "example": "彼はチームのナンバー1だ。"
   },
   {
     "termA": "ナイーブ (naibu)",
@@ -35,11 +35,16 @@
     "explanation": "Often means sensitive/delicate in Japanese. (Set 3)",
     "example": "彼は意外とナイーブな性格だ。"
   },
-
- {
-  "termA": "スマート (sumaato)",
-  "termB": "smart (English)",
-  "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 6)",
-  "example": "彼はスマートな着こなしをしている。"
-}
+  {
+    "termA": "スマート (sumaato)",
+    "termB": "smart (English)",
+    "explanation": "Often means slim/stylish, not necessarily intelligent. (Set 6)",
+    "example": "彼はスマートな着こなしをしている。"
+  },
+  {
+    "termA": "カンニング (kanningu)",
+    "termB": "cunning (English)",
+    "explanation": "カンニング means cheating on tests. (Set 5)",
+    "example": "試験でカンニングしてはいけません。"
+  }
 ]
