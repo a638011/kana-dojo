@@ -75,13 +75,18 @@
     "explanation": "Use past tense for past actions. (Pattern set 4)"
   },
   {
-  "wrong": "私は昨日東京に行きます。",
-  "correct": "私は昨日東京に行きました。",
-  "explanation": "Use past tense for past actions. (Pattern set 4)"
+    "wrong": "私は昨日東京に行きます。",
+    "correct": "私は昨日東京に行きました。",
+    "explanation": "Use past tense for past actions. (Pattern set 4)"
   },
   {
     "wrong": "これはおいしいだ。",
     "correct": "これはおいしい。",
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 3)"
+  },
+  {
+    "mistake": "おいしい vs おいしい",
+    "explanation": "Both are pronounced the same but spelled differently. おいしい can mean delicious or (archaic) easy.",
+    "correct": "好吃的 (おいしい) - use 美味しい for delicious"
   }
 ]
