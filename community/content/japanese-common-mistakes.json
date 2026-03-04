@@ -75,13 +75,18 @@
     "explanation": "Use past tense for past actions. (Pattern set 4)"
   },
   {
-  "wrong": "私は昨日東京に行きます。",
-  "correct": "私は昨日東京に行きました。",
-  "explanation": "Use past tense for past actions. (Pattern set 4)"
+    "wrong": "私は昨日東京に行きます。",
+    "correct": "私は昨日東京に行きました。",
+    "explanation": "Use past tense for past actions. (Pattern set 4)"
   },
   {
     "wrong": "これはおいしいだ。",
     "correct": "これはおいしい。",
     "explanation": "い-adjectives do not take だ in plain present. (Pattern set 3)"
+  },
+  {
+    "wrong": "私は兄さんが二人います。",
+    "correct": "私は兄が二人いません。",
+    "explanation": "Use 兄 for your own older brother. (Pattern set 2)"
   }
 ]
