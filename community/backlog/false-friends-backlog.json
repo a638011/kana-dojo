@@ -132,7 +132,7 @@
     "example": "彼はチームのナンバー1だ。",
     "id": 15,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ハイテンション (haitenshon)",
@@ -141,7 +141,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 16,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -203,7 +203,7 @@
     "explanation": "コンセント means electrical outlet. (Set 2)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 23,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -213,7 +213,7 @@
     "example": "彼はスマートな着こなしをしている。",
     "id": 24,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "テンション (tenshon)",
@@ -221,7 +221,7 @@
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 2)",
     "example": "ライブでテンションが上がった。",
     "id": 25,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -527,7 +527,7 @@
     "explanation": "Common term for plastic drink bottle. (Set 3)",
     "example": "ペットボトルは分別して捨てる。",
     "id": 59,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -545,7 +545,7 @@
     "explanation": "手紙 means physical mail, not alphabet letters. (Set 4)",
     "example": "祖母に手紙を書きました。",
     "id": 61,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -581,7 +581,7 @@
     "explanation": "Often means excitement/energy level in casual Japanese. (Set 4)",
     "example": "ライブでテンションが上がった。",
     "id": 65,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
@@ -681,7 +681,7 @@
     "example": "試合前はみんなハイテンションだった。",
     "id": 76,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "イメージ (imeeji)",
@@ -699,7 +699,7 @@
     "example": "父は都内でサラリーマンをしている。",
     "id": 78,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "ペットボトル (petto botoru)",
@@ -717,7 +717,7 @@
     "example": "子どものころからアニメが好きだ。",
     "id": 80,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "手紙 (tegami)",
@@ -726,7 +726,7 @@
     "example": "祖母に手紙を書きました。",
     "id": 81,
     "issued": false,
-    "completed": false
+    "completed": true
   },
   {
     "termA": "マンション (manshon)",
@@ -743,7 +743,7 @@
     "explanation": "コンセント means electrical outlet. (Set 5)",
     "example": "コンセントが足りないので延長コードを使います。",
     "id": 83,
-    "issued": false,
+    "issued": true,
     "completed": false
   },
   {
